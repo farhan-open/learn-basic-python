@@ -1,0 +1,1 @@
+kalimat = 'Saya sedang belajar python'

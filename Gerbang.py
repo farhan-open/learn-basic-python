@@ -1,0 +1,1 @@
+print(f'Nilai __name__ pada file eksternal ini = "{__name__}"')
